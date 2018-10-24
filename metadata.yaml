@@ -1,11 +1,16 @@
 _repo: Napaseudun-yossa-Romaani-Huippuvuorilta_58044
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Frich, Øvre Richter
     gutenberg_agent_id: '49743'
     url: http://www.gutenberg.org/2009/agents/49743
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58044#Napaseudun-yossa-Romaani-Huippuvuorilta
 gutenberg_issued: '2018-10-06'
 gutenberg_type: Text
 identifiers:
